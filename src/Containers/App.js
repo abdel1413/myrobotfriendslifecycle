@@ -64,7 +64,7 @@ class App extends Component {
     //set searchField to get value entered
     this.setState({searchField: event.target.value})
 
-    // console.log(filterRobots)
+  
   }
 
   render(){
